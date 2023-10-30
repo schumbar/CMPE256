@@ -29,6 +29,7 @@ For this assignment, we are required to analyze audio files from NASA, available
 ## Project Deliverables
 All project deliverables related to this assignment are included in the `assignment_03` directory of this repository. The deliverables include the following:
 1. README.md: A markdown file containing the assignment description, assignment tasks, and data included in the assignment.
+2. CMPE256_Unstructured_Audio_and_Wave_Files.ipynb: A google colab notebook file consisting of all the work that was completed for this assignment. Please note that I've split up the notebook into sections by the file that we are analyzing. 
 
 
 Include all your code, outputs (including visualizations of the spectrograms), and a brief analysis of the features observed in the audio files. Compare the different types of sound in terms of their frequency, rhythm, and any other patterns that you can identify from the spectrograms.
